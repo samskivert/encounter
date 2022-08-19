@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c6191cac82ac49e69e43262e27df4de, type: 3}
   m_Name: Short Sword
   m_EditorClassIdentifier: 
-  image: {fileID: 0}
+  image: {fileID: 21300000, guid: de7825875e47c484a840a265fdc63b05, type: 3}
   attackBonus: 5
   damageDie: 6
